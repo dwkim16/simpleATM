@@ -1,7 +1,10 @@
 # simpleATM
 ## simpleATM is created with Python 3.8
+- You can clone the project by entering:
 
-You can simply execute the program with:
+git clone https://github.com/dwkim16/simpleATM.git
+
+- You can simply execute the program with:
 
 python3 atm.py
 
