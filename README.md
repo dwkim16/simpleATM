@@ -11,7 +11,7 @@ python3 atm.py
 - holds data for the bank user such as card number, accounts, pin number, balance.
 
 2. AtmController Class
-- interacts with bank system for ATM operations such as See Balance, Deposit, Withdraw.
+- interacts with the bank system for ATM operations such as See Balance, Deposit, Withdraw.
 
 3. Main Class
 - used mainly for testing. 
