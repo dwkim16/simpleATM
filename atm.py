@@ -30,7 +30,7 @@ class BankSystem:
         else:
             return None
 
-
+# ATM Controller
 class AtmController:
     def __init__(self, bank, cash):
         self.bankSystem = bank
@@ -79,6 +79,8 @@ class AtmController:
                 return newAmount
         return "Invalid Action"
 
+    
+# Main for testing purposes
 if __name__ == '__main__':
 
     newBankSystem = BankSystem()
